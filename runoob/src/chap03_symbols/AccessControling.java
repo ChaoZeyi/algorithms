@@ -13,7 +13,10 @@ package chap03_symbols;
 public class AccessControling {
     private String name = "aa";
     public int age;
-
+    void add()
+    {
+        System.out.println("add");
+    }
 }
 class child extends AccessControling{
     public static void main(String[] args)
