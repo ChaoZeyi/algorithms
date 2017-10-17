@@ -49,12 +49,12 @@ public class DigitsType {
 
         // char
         System.out.println("基本类型：char 二进制位数：" + Character.SIZE);
-        System.out.println("包装类：java.lang.Character");
+        System.out.println("包装类：java.lang.CharacterType");
         // 以数值形式而不是字符形式将Character.MIN_VALUE输出到控制台
-        System.out.println("最小值：Character.MIN_VALUE="
+        System.out.println("最小值：CharacterType.MIN_VALUE="
                 + (int)Character.MAX_VALUE);
         // 以数值形式而不是字符形式将Character.MAX_VALUE输出到控制台
-        System.out.println("最大值：Character.MAX_VALUE="
+        System.out.println("最大值：CharacterType.MAX_VALUE="
                 + (int)Character.MAX_VALUE);
     }
 }
