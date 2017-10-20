@@ -1,8 +1,6 @@
-package chap05_Types;
+package chap05_JDKTypes;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 // 数组类型，用于存储固定大小的同类型数据
 // 引用对象都是不可变类型，比如数组和String，对于数组test1 test2，执行test1=test2，是把test2的地址赋给了test1

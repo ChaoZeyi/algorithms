@@ -1,4 +1,4 @@
-package chap05_Types;
+package chap05_JDKTypes;
 // 内置数据类型（int byte) 和包装类(Integer Byte)的装箱、拆箱
 public class NumberMath {
     public static void main(String[] args)

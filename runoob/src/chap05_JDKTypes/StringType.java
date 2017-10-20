@@ -1,4 +1,4 @@
-package chap05_Types;
+package chap05_JDKTypes;
 //String类是不可变的,如果需要改变就可以用StringBuffer和StringBuilder类型
 //基本类型的包装类也是不可变的
 //StringBuffer 线程安全 StringBuilder 线程不安全
