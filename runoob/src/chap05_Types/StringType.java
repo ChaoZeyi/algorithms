@@ -1,4 +1,4 @@
-package chap05;
+package chap05_Types;
 //String类是不可变的,如果需要改变就可以用StringBuffer和StringBuilder类型
 //基本类型的包装类也是不可变的
 //StringBuffer 线程安全 StringBuilder 线程不安全
@@ -11,8 +11,8 @@ public class StringType {
     }
 
     public static void main(String[] args) {
-        String a = "runoob";
-        StringType.addTest(a);
+//        String a = "runoob";
+//        StringType.addTest(a);
         StringBuffer buffer = new StringBuffer();
         StringBuilder builder = new StringBuilder();
         for (int i = 0; i < 10; i++) {

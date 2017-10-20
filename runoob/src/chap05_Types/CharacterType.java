@@ -1,4 +1,4 @@
-package chap05;
+package chap05_Types;
 //Character自带了大量函数，判断是否为字母、数字或者空格
 public class CharacterType {
     public static void main(String[] args)
